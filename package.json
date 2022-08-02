@@ -1,0 +1,25 @@
+{
+    "name": "eric-cli",
+    "version": "0.0.1",
+    "main": "index.js",
+    "bin": {
+        "eric": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "eric",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0",
+        "commander": "^9.4.0",
+        "download-git-repo": "^3.0.2",
+        "figlet": "^1.5.2",
+        "handlebars": "^4.7.7",
+        "inquirer": "^8.0.0",
+        "open": "^8.0.2",
+        "ora": "^5.4.0"
+    }
+}
