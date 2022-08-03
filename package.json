@@ -1,6 +1,6 @@
 {
-    "name": "eric-cli",
-    "version": "0.0.1",
+    "name": "eric-react-cli",
+    "version": "0.0.3",
     "main": "index.js",
     "bin": {
         "eric": "./index.js"
